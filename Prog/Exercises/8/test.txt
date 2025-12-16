@@ -1,0 +1,4 @@
+This is a simple example text file.
+It contains several vowels and different letters.
+You can use it to test your C program.
+Count all characters and each vowel: a, e, i, o, u.
